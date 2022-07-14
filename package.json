@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "unocss": "^0.44.2",
+    "vite": "^3.0.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  }
+}
